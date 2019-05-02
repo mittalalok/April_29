@@ -9,7 +9,7 @@
         <script><![CDATA[var April_29_1 = Class.create();
 April_29_1.prototype = {
     initialize: function() {
-		console.log("Something 1 2 ");
+		console.log("Something 1 2 1");
     },
 
     type: 'April_29_1'
@@ -18,13 +18,13 @@ April_29_1.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-04-29 11:23:01</sys_created_on>
         <sys_id>4b5df126730133001c233096fbf6a712</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>April_29_1</sys_name>
         <sys_package display_value="April_29" source="sn_april_29">a5ac79e2730133001c233096fbf6a7a5</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="April_29">a5ac79e2730133001c233096fbf6a7a5</sys_scope>
         <sys_update_name>sys_script_include_4b5df126730133001c233096fbf6a712</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-02 08:43:34</sys_updated_on>
+        <sys_updated_on>2019-05-02 08:48:13</sys_updated_on>
     </sys_script_include>
 </record_update>
